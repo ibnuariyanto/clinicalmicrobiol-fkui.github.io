@@ -2,6 +2,7 @@
 title: "Research Group Profile"
 subtitle: "Research Group Profile: Diagnosis and Therapy of Fungal Infection"
 format: html
+date: last-modified
 ---
 
 ## Group Information

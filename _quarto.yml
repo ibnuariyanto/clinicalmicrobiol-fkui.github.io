@@ -22,8 +22,9 @@ website:
         text: Mycobacteria
       - href: about.qmd
         text: About
-
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme: 
+      light: cosmo
+      dark: superhero
+    css: styles.css
