@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "Research Group Profile"
+subtitle: "Bacteriology and Antimicrobial Resistance-Integrated One Health"
+format: html
+date: last-modified
 ---
 
 ::: {#hero-heading}
