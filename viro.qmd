@@ -1,0 +1,61 @@
+# Research Group Profile
+
+## Group Information
+- **Group Number:** 41
+- **Group Name:** Virology and Pathobiology Cancer
+- **Research Focus:** Investigation of viral pathogens and their role in cancer pathobiology
+
+## Team Members
+
+### Coordinator
+- **Name:** Dr. dr. Budiman Bela, Sp.MK (K)
+- **Title/Credentials:** Doctor, PhD, Clinical Microbiology Specialist (Consultant)
+- **Email:** [Email address]
+- **Phone:** [Phone number]
+
+### Members
+1. **Dr. drh. Silvia Tri Widyaningtyas, M.Biomed**
+   - Title/Credentials: Veterinary Doctor, PhD, Master in Biomedical Sciences
+   - Specialization: [Area of expertise]
+   - Email: [Email address]
+
+2. **Aroem Naroeni, DEA, Ph.D**
+   - Title/Credentials: DEA, PhD
+   - Specialization: [Area of expertise]
+   - Email: [Email address]
+
+3. **Prof. dr. Fera Ibrahim, Ph.D, Sp.MK (K)**
+   - Title/Credentials: Professor, Doctor, PhD, Clinical Microbiology Specialist (Consultant)
+   - Specialization: [Area of expertise]
+   - Email: [Email address]
+
+## Research Areas
+- Viral pathogenesis
+- Cancer virology
+- Molecular pathobiology
+
+## Current Projects
+1. **[Project Name]**
+   - Duration: [Start date - End date]
+   - Funding: [Funding source]
+   - Brief description: [1-2 sentences]
+
+## Recent Publications
+- [To be completed]
+
+## Collaborations
+- **Domestic:** [List of domestic collaborators/institutions]
+- **International:** [List of international collaborators/institutions]
+
+## Resources & Facilities
+- [Equipment/Laboratory 1]
+- [Equipment/Laboratory 2]
+
+## Contact Information
+- **Office Location:** [Building, Room Number]
+- **Office Phone:** [Phone number]
+- **Group Email:** mikrobiologi-fku@ui.ac.id
+- **Website:** [URL if available]
+
+---
+*Last Updated: December 2025*

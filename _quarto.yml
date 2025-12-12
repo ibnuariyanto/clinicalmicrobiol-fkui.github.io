@@ -4,9 +4,22 @@ project:
 website:
   title: "Clinical Microbiology Research Group"
   navbar:
+    logo: media/lab-logo.png
+    logo-alt: "Lab Logo"
+    title: false  # Set to true to show both logo and text
     left:
       - href: index.qmd
         text: Home
+      - href: AMR.qmd
+        text: Bacteriology & AMR
+      - href: Emerging.qmd
+        text: Emergind Microbes
+      - href: viro.qmd
+        text: Virology & Pathobiology
+      - href: fungal.qmd
+        text: Fungal Infection
+      - href: mycobacteria.qmd
+        text: Mycobacteria
       - href: about.qmd
         text: About
 

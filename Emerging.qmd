@@ -1,0 +1,99 @@
+---
+title: "Research Group Profile"
+format: html
+---
+
+## Group Information
+
+- **Group Name:** Emerging Microbes and Infectious Diseases
+- **Research Focus:** Investigation of emerging microbial pathogens and infectious disease surveillance
+
+## Team Members
+
+### Coordinator
+
+- **Name:** Dr. Andi Yasmon, M.Biomed, PhD
+- **Title/Credentials:** Doctor, Master in Biomedical Sciences, PhD
+- **Email:** [andi.yasmon@ui.ac.id](mailto:andi.yasmon@ui.ac.id)
+- **Phone:** +62 21 316 0491
+
+### Members
+
+1. **Fithriyah Sjatha, PhD**
+   - Title/Credentials: PhD
+   - Specialization: Virology and Microbiome Analysis
+   - Email: [fithriyah.sjatha@ui.ac.id](mailto:fithriyah.sjatha@ui.ac.id)
+
+2. **Dr. dr. Angky Budianti, Sp.MK (K), Subsp.Vir (K)**
+   - Title/Credentials: Doctor, PhD, Clinical Microbiology Specialist (Consultant in Virology)
+   - Specialization: Clinical Virology and Extra-pulmonary Tuberculosis
+   - Email: [angky.budianti@ui.ac.id](mailto:angky.budianti@ui.ac.id)
+
+3. **dr. Suratno Lulut Ratnoglik, M.Biomed, PhD, Sp.MK**
+   - Title/Credentials: Doctor, Master in Biomedical Sciences, PhD, Clinical Microbiology Specialist
+   - Specialization: Viral Vaccine Development and Hepatitis C Virus (HCV)
+   - Email: [suratno.lulut01@ui.ac.id](mailto:suratno.lulut01@ui.ac.id)
+
+4. **Dr. Ibnu Agus Ariyanto, M.Biomed**
+   - Title/Credentials: Doctor, Master in Biomedical Sciences
+   - Specialization: Cellular Immunity, HIV, and CMV
+   - Email: [ibnu.ariyanto@ui.ac.id](mailto:ibnu.ariyanto@ui.ac.id)
+
+5. **Prof. Dra. Beti Ernawati Dewi, Ph.D**
+   - Title/Credentials: Professor, PhD
+   - Specialization: Molecular Virology (Dengue, Malaria) and Antiviral Development
+   - Email: [beti.ernawati@ui.ac.id](mailto:beti.ernawati@ui.ac.id)
+
+## Research Areas
+
+- Emerging infectious diseases (Dengue, HIV, SARS-CoV-2)
+- Microbial surveillance and molecular epidemiology
+- Pathogen characterization (Genotyping, Drug Resistance)
+- Gut microbiome and host immune response
+- Vaccine and diagnostic kit development
+
+## Current Projects
+
+1. **Gut Microbiota Profile in Systemic Lupus Erythematosus Patients**
+   - Duration: 2024 - 2025
+   - Funding: Hibah PUTI UI / Domestic Grant
+   - Brief description: Investigation of the correlation between clinical characteristics, anxiety/depression, and gut microbiota profiles in SLE patients.
+
+2. **Characterization of Probiotic Candidates from Indonesian Fermented Milk**
+   - Duration: 2023 - 2025
+   - Funding: Ministry of Research and Technology / BRIN
+   - Brief description: Molecular characterization and safety assessment of *Lactococcus lactis* strains isolated from "Dadih" for potential oral probiotic use.
+
+3. **Development of Dengue Detection Kit and Antiviral Therapies**
+   - Duration: 2023 - Present
+   - Funding: Academia-Industry Innovation Grant (with PT Konimex)
+   - Brief description: Collaborative research to develop high-sensitivity diagnostic kits for Dengue Hemorrhagic Fever and explore novel antiviral compounds.
+
+## Recent Publications
+
+- Astuti, A. K., Yasmon, A., et al. (2025). **Characterization of *Lactococcus lactis* subspecies *lactis* strain Y-PDH01-07 isolated from traditional Indonesian fermented milk (dadih) as an oral probiotic candidate.** *Science Progress*, 108(4).
+
+- Zaenab, Z., ... Yasmon, A., et al. (2025). **Immune Response to Capsular Polysaccharide of *Streptococcus pneumoniae* in Rabbits Immunized with Pneumococcal Conjugate Vaccine.** *HAYATI Journal of Biosciences*, 32(3), 642-648.
+
+- Gebrina, M., ... Dewi, B.E., Yasmon, A., et al. (2025). **Patients with Systemic Lupus Erythematosus with Anxiety or Depression: Clinical Characteristics, Food Intake, and Gut Microbiota Profile.** *Acta Medica Indonesiana*, 57(3), 295-305.
+
+- Rosana, Y., ... Yasmon, A., et al. (2024). **Antimicrobial Susceptibility Pattern and Molecular Characteristics of Multidrug-resistant *Neisseria gonorrhoeae* in Jakarta, Indonesia.** *Iranian Journal of Medical Microbiology*, 18(4), 238-246.
+
+- Angky Budianti, et al. (2025). **Distribusi Infeksi *Mycobacterium tuberculosis* Ekstra Paru.** *Jurnal Ilmiah Multidisipliner*, 3(4).
+
+## Collaborations
+
+- **Domestic:** RSUPN Dr. Cipto Mangunkusumo (RSCM), PT Konimex, Universitas Pertahanan, Universitas Mataram
+- **International:** Tohoku University (Japan), Osaka University (Japan), SEAMEO TROPMED Regional Centre for Microbiology, Parasitology and Entomology
+
+## Resources &amp; Facilities
+
+- **Molecular Virology Laboratory:** Equipped for viral culture, neutralization assays, and molecular detection of emerging viruses (Dengue, HIV, CMV).
+- **Microbiome &amp; Metagenomics Unit:** Facilities for NGS-based microbiome analysis and bioinformatics processing within the IMERI-FKUI cluster.
+
+## Contact Information
+
+- **Office Location:** Department of Microbiology, Faculty of Medicine Universitas Indonesia, Jl. Pegangsaan Timur No. 16, Jakarta Pusat 10320
+- **Office Phone:** +62 21 316 0491
+- **Group Email:** [mikrobiologi-fku@ui.ac.id](mailto:mikrobiologi-fku@ui.ac.id)
+- **Website:** [https://imeri.fk.ui.ac.id/infectious-disease-and-immunology/](https://imeri.fk.ui.ac.id/infectious-disease-and-immunology/)

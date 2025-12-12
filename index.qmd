@@ -2,14 +2,17 @@
 title: "Clinical Microbiology Research Group"
 about: 
   id: hero-heading
-  template: marquee
+  template: trestles
   image: media/headshot.jpg
   image-shape: rectangle
-  image-width: 40em
+  image-width: 30em
   links:
-    - icon: vial
-      text: Sinta
-      href: https://sinta.kemdikbud.go.id/authors/profile/6851566/?view=wos
+    - icon: globe
+      text: Universitas Indonesia
+      href: http://ui.ac.id/
+    - icon: globe
+      text: Faculty of Medicine UI
+      href: http://fk.ui.ac.id/
     - icon: envelope
       text: Email
       href: mailto:mikrobiologi-fku@ui.ac.id  
@@ -18,5 +21,6 @@ about:
 # 
 
 ::: {#hero-heading}
-The Microbiology Research Group at the Faculty of Medicine, Universitas Indonesia (FKUI) is dedicated to advancing knowledge in the field of microbiology through innovative research and education. Our team comprises experienced researchers, clinicians, and students who are passionate about understanding microbial life and its impact on human health.
+The Microbiology Research Group at the Faculty of Medicine, Universitas Indonesia (FKUI) is dedicated to advancing knowledge in the field of microbiology through innovative research and education. 
+Our team comprises experienced researchers, clinicians, and students who are passionate about understanding microbial life and its impact on human health.
 :::
