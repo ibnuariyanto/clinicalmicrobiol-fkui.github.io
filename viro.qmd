@@ -1,61 +1,144 @@
-# Research Group Profile
+---
+title: "Research Group Profile"
+subtitle: "Virology and Cancer Pathobiology"
+date: last-modified
+---
 
-## Group Information
-- **Group Number:** 41
-- **Group Name:** Virology and Pathobiology Cancer
-- **Research Focus:** Investigation of viral pathogens and their role in cancer pathobiology
+
+# Group Information
+
+- **Group Name:** Virology and Cancer Pathobiology
+- **Research Focus:** Investigation of viral pathogens and their role in cancer pathobiology, development of viral-based cancer therapies, and molecular surveillance of oncogenic viruses.
 
 ## Team Members
 
 ### Coordinator
-- **Name:** Dr. dr. Budiman Bela, Sp.MK (K)
+
+**Dr. dr. Budiman Bela, Sp.MK (K)**
+
 - **Title/Credentials:** Doctor, PhD, Clinical Microbiology Specialist (Consultant)
-- **Email:** [Email address]
-- **Phone:** [Phone number]
+- **Email:** budiman.bela@ui.ac.id
+- **Phone:** +62 21 316 0491
+- **Scopus Author ID:** 24723637900
+- **H-Index:** 7 (Scopus)
+- **Total Citations:** 156+
 
 ### Members
-1. **Dr. drh. Silvia Tri Widyaningtyas, M.Biomed**
-   - Title/Credentials: Veterinary Doctor, PhD, Master in Biomedical Sciences
-   - Specialization: [Area of expertise]
-   - Email: [Email address]
 
-2. **Aroem Naroeni, DEA, Ph.D**
-   - Title/Credentials: DEA, PhD
-   - Specialization: [Area of expertise]
-   - Email: [Email address]
+#### Dr. drh. Silvia Tri Widyaningtyas, M.Biomed
 
-3. **Prof. dr. Fera Ibrahim, Ph.D, Sp.MK (K)**
-   - Title/Credentials: Professor, Doctor, PhD, Clinical Microbiology Specialist (Consultant)
-   - Specialization: [Area of expertise]
-   - Email: [Email address]
+- **Title/Credentials:** Veterinary Doctor, PhD, Master in Biomedical Sciences
+- **Specialization:** Veterinary Virology, Zoonotic Viral Infections, Bacterial Sialidase Antiviral Research, Avian Influenza
+- **Email:** silvia.tri@gmail.com
+- **Scopus Author ID:** 57208952258
+- **H-Index:** 2 (Scopus)
+- **Key Research:** NanB bacterial sialidase as antiviral agent, Influenza H5N1 and H9N2 research, Clostridium perfringens applications
+
+#### Aroem Naroeni, DEA, Ph.D
+
+- **Title/Credentials:** DEA (Diplôme d'Études Approfondies), PhD from Université d'Aix-Marseille II
+- **Specialization:** Virology, Cancer Pathobiology, Stem Cell Differentiation, Biosafety and Biorisk Management
+- **Email:** aroem.naroeni@gmail.com
+- **Scopus Author ID:** 6507663156
+- **Affiliation:** Lecturer and Researcher at PRVKP FKUI; Adjunct Faculty at Universitas Esa Unggul
+- **Key Research:** Ovarian cancer nanomedicine, Cisplatin-nanocurcumin combinations, Biorisk management implementation
+
+#### Prof. dr. Fera Ibrahim, Ph.D, Sp.MK (K)
+
+- **Title/Credentials:** Professor, Doctor, PhD, Clinical Microbiology Specialist (Consultant)
+- **Specialization:** Clinical Virology, Dengue Pathogenesis, Pediatric Infectious Diseases, Molecular Diagnostics
+- **Email:** r.fera@ui.ac.id
+- **NIDN:** 17026006
+- **Academic Rank:** Professor
+- **Key Research:** Factors associated with positive blood cultures in pediatric patients, FIEBRE study collaborator
 
 ## Research Areas
-- Viral pathogenesis
-- Cancer virology
-- Molecular pathobiology
+
+- Viral pathogenesis (Dengue, HIV, HPV, Influenza, SARS-CoV-2)
+- Cancer virology and oncogenesis
+- Molecular pathobiology and cancer diagnostics
+- Development of viral-based oncolytic therapies (e.g., Salmonella-based systems)
+- Zoonotic viral infections and avian influenza
+- Bacterial sialidase as antiviral agents
+- COVID-19 vaccine immunogenicity research
 
 ## Current Projects
-1. **[Project Name]**
-   - Duration: [Start date - End date]
-   - Funding: [Funding source]
-   - Brief description: [1-2 sentences]
+
+### Development of Salmonella-based Oncolytic Therapy for Cervical Cancer (CerveX)
+
+- **Duration:** 2022 - Present
+- **Funding:** Universitas Indonesia / PUTI Pascasarjana Research Grant
+- **Description:** First in Indonesia: Engineering *Salmonella* bacteria to target and destroy cervical cancer cells through bacterial-mediated cancer therapy. The modified bacteria are designed to selectively infiltrate and eliminate cervical cancer cells, representing a novel immunotherapeutic approach.
+- **Lead Researchers:** Dr. Budiman Bela
+
+### Antiviral Activity of Bacterial Sialidases against Influenza Virus
+
+- **Duration:** 2023 - 2025
+- **Funding:** Basic Research Grant / Universitas Indonesia
+- **Description:** Investigation of the *in vitro* and *in vivo* antiviral potential of NanB bacterial sialidase from *Clostridium perfringens*, focusing on its ability to inhibit viral entry and replication of avian influenza H5N1 and H9N2 viruses. Studies conducted in MDCK cells and BALB/c mice models.
+- **Lead Researchers:** Dr. Silvia Tri Widyaningtyas, Dr. Budiman Bela, Prof. Amin Soebandrio
+
+### Molecular Surveillance and Pathogenesis of Oncogenic Viruses
+
+- **Duration:** 2023 - Present
+- **Funding:** Human Cancer Research Cluster (HCRC) / NICCRAT - International Collaboration
+- **Description:** Comprehensive study of HPV genotypes in cervical cancer and other virus-associated malignancies across Indonesian populations. Focus on molecular characterization, epidemiological surveillance, and development of improved early detection methods and vaccine strategies. Part of the Female Cancer Program in collaboration with international partners.
+- **International Partners:** University of Nottingham (UK), Leiden University (Netherlands)
+
+### SARS-CoV-2 Vaccine Development and Immunogenicity Studies
+
+- **Duration:** 2020 - 2024
+- **Funding:** Universitas Indonesia Innovation Grant
+- **Description:** Development of DNA vaccine expressing SARS-CoV-2 VLP (Virus-Like Particles) and evaluation of antibody induction in C57BL/6 mice. Comparative analysis of mRNA and inactivated COVID-19 vaccines in People Living with HIV (PLWH), assessing IL-2, IFN-γ, and anti-RBD spike antibody responses.
 
 ## Recent Publications
-- [To be completed]
+
+- Widyaningtyas, S.T., Bela, B., et al. (2025). **In vitro antiviral activity of NanB bacterial sialidase against influenza virus.** *Avian Pathology*, 54(1), 96-107. DOI: 10.1080/03079457.2024.2386315
+
+- Silaen, O.S.M., Widyaningtyas, S.T., et al. (2025). **Potential of Clostridium perfringens sialidase as a novel antiviral agent against avian influenza H5N1 infection in BALB/c mice.** *Comparative Immunology, Microbiology and Infectious Diseases*, 121, 102373.
+
+- Ibrahim, R.F., et al. (2025). **Factors associated with positive blood cultures in children in nine countries: a secondary analysis of the FIEBRE study.** *BMJ Global Health*, 10(10), e020448.
+
+- Amanah, A., Bela, B., Widyaningtyas, S.T., et al. (2024). **Evaluation of the Effect of mRNA and Inactivated SARS-CoV-2 Vaccines on the Levels of Cytokines IL-2, IFN-γ, and Anti-RBD Spike SARS-CoV-2 Antibodies in People Living with HIV (PLWH).** *Biomedicines*, 12(9), 2115.
+
+- Naroeni, A., et al. (2024). **Potensi Virus RNA Sebagai Ancaman Penyakit Emerging dan Reemerging: Strategi Pencegahan dan Pengendalian Infeksi.** *UI Publishing* (Book Chapter).
+
+- Syahruddin, E., ... Bela, B., et al. (2022). **TP53 and EGFR Mutational Status in Thymoma: A Genetic Sequencing Study.** *Asian Pacific Journal of Cancer Prevention*, 23(1), 109-114.
+
+## Patents and Intellectual Property
+
+- **Patent Granted (2024):** "Antigen Rekombinan Berbasis Epitop Multipel dari Poliprotein Core, NS3, NS4A, NS4AB, dan NS5A untuk Deteksi Infeksi Virus Hepatitis C (HCV)" - Dr. Silvia Tri Widyaningtyas, Dr. Budiman Bela, Dian Amirulloh. Patent No: P00201904453. Granted: 21/02/2024.
+
+- **Patent Granted (2024):** "Antigen Rekombinan Envelope gp125-gp36 HIV-2 yang Dimanfaatkan dalam Uji Diagnostik HIV-2 Berbasis Pendeteksian Antibodi Spesifik Envelope HIV-2" - Dr. Budiman Bela, Fathurrohim, Dr. Silvia Tri Widyaningtyas. Patent No: S00201910806. Granted: 12/02/2024.
 
 ## Collaborations
-- **Domestic:** [List of domestic collaborators/institutions]
-- **International:** [List of international collaborators/institutions]
 
-## Resources & Facilities
-- [Equipment/Laboratory 1]
-- [Equipment/Laboratory 2]
+- **Domestic:** Universitas Esa Unggul (teaching and research collaboration), RSUPN Dr. Cipto Mangunkusumo (RSCM - clinical trials and patient samples), PT PathGen Diagnostik Teknologi (diagnostic development), CV Abiramalab Indonesia (laboratory services), Indonesian Institute of Sciences (LIPI - biosecurity workshop 2018), Eijkman Institute for Molecular Biology
+
+- **International:** University of Nottingham (UK) - NICCRAT (Nottingham-Indonesia Cervical Cancer Research and Training), Osaka University (Japan - virology research), Leiden University (Netherlands - Female Cancer Program), Australian Plant Biosecurity Science Foundation (biosecurity bilateral workshop), Mico BioMed Co. Ltd (Korea - diagnostic kit development)
+
+## Resources &amp; Facilities
+
+- **Virology and Cancer Pathobiology Research Center (PRVKP / Pusat Riset Virologi dan Kanker Patologi):** State-of-the-art specialized laboratory equipped for viral culture, cell line maintenance (including MDCK, HT29, SKOV3 cells), molecular oncology research, and biosafety level 2 work. Facilities include PCR machines, cell culture equipment, flow cytometry, and molecular biology instrumentation. Located within Faculty of Medicine, Universitas Indonesia.
+
+- **BSL-2 Facility:** Biocontainment facilities suitable for handling infectious viral agents including influenza viruses, HIV, SARS-CoV-2, and conducting viral propagation studies. Equipped with biosafety cabinets, negative pressure rooms, and appropriate waste management systems.
+
+- **Collaborative Laboratory Access:** Through institutional partnerships, the group has access to BSL-3 facilities for high-risk pathogen research, advanced imaging facilities, animal facilities for *in vivo* studies (BALB/c and C57BL/6 mice), and clinical sample collection through RSCM.
+
+## Training and Education
+
+- The group provides training in biosafety, biosecurity, and biorisk management
+- Supervises doctoral (S3) and master's (S2) students through the Biomedical Sciences program
+- Regular workshops and seminars on emerging viral threats
+- Participated in WHO mRNA Technology Transfer Programme (November 2023)
 
 ## Contact Information
-- **Office Location:** [Building, Room Number]
-- **Office Phone:** [Phone number]
+
+- **Office Location:** Virology and Cancer Pathobiology Research Center (PRVKP), Department of Microbiology, Faculty of Medicine Universitas Indonesia, Jl. Pegangsaan Timur No. 16, Jakarta Pusat 10320, Indonesia
+- **Office Phone:** +62 21 316 0491
 - **Group Email:** mikrobiologi-fku@ui.ac.id
-- **Website:** [URL if available]
+- **Alternative Contact:** office@fk.ui.ac.id, humas@fk.ui.ac.id
+- **Website:** [https://research.fk.ui.ac.id/krl/kr/profil_kr/41/442](https://research.fk.ui.ac.id/krl/kr/profil_kr/41/442)
 
 ---
 *Last Updated: December 2025*

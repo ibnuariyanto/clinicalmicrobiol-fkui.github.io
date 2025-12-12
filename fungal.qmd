@@ -1,26 +1,87 @@
 ---
-title: "About"
+title: "Research Group Profile"
+subtitle: "Research Group Profile: Diagnosis and Therapy of Fungal Infection"
+format: html
 ---
 
-::: {#hero-heading}
-Our research group consists of dedicated faculty members, postdoctoral researchers, graduate students, and laboratory technicians.
+## Group Information
 
-## Facilities
+- **Group Name:** Diagnosis and Therapy of Fungal Infection
+- **Research Focus:** Advanced diagnostic methods and therapeutic approaches for fungal infections, with a focus on invasive mycoses, antifungal resistance, and opportunistic fungal pathogens.
 
-- Biosafety Level 2 (BSL‑2) laboratories
-- Molecular biology facilities for PCR, sequencing, and genetic analysis
-- Cell culture facilities
-- Advanced microscopy equipment
-- Automated microbiology systems for clinical diagnostics
+## Team Members
+
+### Coordinator
+
+- **Name:** Dr. Dra. Conny Riana Tjampakasari, M.S
+- **Title/Credentials:** Doctor, Master of Science
+- **Email:** [conny.riana@ui.ac.id](mailto:conny.riana@ui.ac.id)
+- **Phone:** +62 21 316 0491
+
+### Members
+
+1. **Dra. Ika Ningsih, M.Biomed**
+   - Title/Credentials: Master in Biomedical Sciences
+   - Specialization: Biomedical Microbiology and Natural Product Antifungals
+   - Email: [ika.ningsih@ui.ac.id](mailto:ika.ningsih@ui.ac.id)
+
+2. **Prof. Dr. dr. Yeva Rosana, MS, SpMK (K)**
+   - Title/Credentials: Professor, Doctor, Master of Science, Clinical Microbiology Specialist (Consultant)
+   - Specialization: Clinical Mycology, Invasive Fungal Diseases (Candidiasis), and Sexually Transmitted Infections
+   - Email: [yeva.rosana@ui.ac.id](mailto:yeva.rosana@ui.ac.id)
+
+3. **Prof. Dr. dr. Mardiastuti H Wahid, MSc, SpMK (K)**
+   - Title/Credentials: Professor, Doctor, Master of Science, Clinical Microbiology Specialist (Consultant)
+   - Specialization: Clinical Bacteriology and Mycobacteriology (Tuberculosis/Fungal Co-infections)
+   - Email: [mardiastutiw@yahoo.com](mailto:mardiastutiw@yahoo.com)
+
+## Research Areas
+
+- Fungal diagnostics (Molecular and Serological)
+- Antifungal therapy and resistance mechanisms
+- Mycology research (Invasive Candidiasis, *Pneumocystis*, Dermatophytes)
+- Development of natural antifungal agents
+
+## Current Projects
+
+1. **National Guidelines for Invasive Candidiasis**
+   - Duration: 2023 - 2024
+   - Funding: Indonesian Pulmonary Mycoses Centre (IPMC) / Professional Societies
+   - Brief description: Development of the first national consensus and clinical practice guidelines for the diagnosis and management of invasive candidiasis in Indonesia.
+
+2. **Antifungal Potential of *Moringa oleifera* against *Candida albicans***
+   - Duration: 2023 - 2025
+   - Funding: Universitas Indonesia / Domestic Research Grant
+   - Brief description: Investigation of the efficacy of *Moringa oleifera* leaf extracts as a natural antiseptic and antifungal agent against pathogenic *Candida* species.
+
+3. **Molecular Detection of Opportunistic Fungi in Immunocompromised Patients**
+   - Duration: 2022 - Present
+   - Funding: Departmental/Faculty Grant
+   - Brief description: Surveillance and molecular characterization of opportunistic fungi, including *Pneumocystis jirovecii*, in HIV/AIDS and other immunocompromised patient populations.
+
+## Recent Publications
+
+- Tjampakasari, C.R., Kiranasari, A., &amp; Baswara, R.M.K. (2025). **Potential of *Moringa oleifera* (M. oleifera) Leaf Extract as an Antiseptic against *Candida albicans* using Percentage Kill Test.** *Majalah Obat Tradisional*, 30(2), 211-217. [Google Scholar](https://scholar.google.com/citations?user=cixtdC4AAAAJ&amp;hl=id)
+
+- Rozaliyani, A., ... Rosana, Y., et al. (2024). **Expert Panel Recommendations on the Clinical Practice Guidelines for the Diagnosis and Management of Invasive Candidiasis in Indonesia.** *Acta Medica Indonesiana*, 56(2). [PubMed](https://pubmed.ncbi.nlm.nih.gov/39010772/)
+
+- Tjampakasari, C.R., et al. (2024). **Infeksi Bakteri Langka *Chromobacterium violaceum* Pada Chronic Granulomatous Disease (CGD).** *Kesehatan Kreatif: Jurnal Riset Kesehatan Inovatif*, 6(1), 1-14. [Google Scholar](https://scholar.google.com/citations?user=cixtdC4AAAAJ&amp;hl=id)
+
+- Gultom, D.A., Rosana, Y., et al. (2024). **Development of multiplex-PCR assay for rapid detection and identification of azithromycin resistance mutations.** *Medical Journal of Indonesia*. [MJI](https://mji.ui.ac.id/journal/index.php/mji/article/view/387/0?articlesBySameAuthorPage=1)
 
 ## Collaborations
 
-We collaborate with national and international research centers, hospitals, and universities to contribute to multicenter studies and global health initiatives.
+- **Domestic:** Indonesian Pulmonary Mycoses Centre (IPMC), RSUPN Dr. Cipto Mangunkusumo, Indonesian Society of Clinical Microbiology (PAMKI)
+- **International:** Asia Fungal Working Group (AFWG), GAFFI (Global Action For Fungal Infections)
 
-## Education and Training
+## Resources &amp; Facilities
 
-- Supervision of undergraduate and graduate research projects
-- Workshops and training programs in microbiological techniques
-- Participation in national and international conferences
-- Mentorship programs for young researchers
-:::
+- **Mycology Laboratory:** Specialized facilities for fungal culture, identification, and antifungal susceptibility testing.
+- **Molecular Diagnostic Unit:** Equipment for PCR and molecular detection of fungal pathogens.
+
+## Contact Information
+
+- **Office Location:** Department of Microbiology, Faculty of Medicine Universitas Indonesia, Jl. Pegangsaan Timur No. 16, Jakarta Pusat 10320
+- **Office Phone:** +62 21 316 0491
+- **Group Email:** [mikrobiologi-fku@ui.ac.id](mailto:mikrobiologi-fku@ui.ac.id)
+- **Website:** [https://research.fk.ui.ac.id/krl/kr/profil_kr/43/332](https://research.fk.ui.ac.id/krl/kr/profil_kr/43/332)

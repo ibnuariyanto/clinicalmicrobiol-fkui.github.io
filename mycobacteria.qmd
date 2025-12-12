@@ -1,26 +1,89 @@
 ---
-title: "About"
+title: "Research Group Profile"
+subtitle: "Pathogenomic and Cellular Mycobacteria Research Group"
+format: html
+date: last-modified
 ---
 
-::: {#hero-heading}
-Our research group consists of dedicated faculty members, postdoctoral researchers, graduate students, and laboratory technicians.
+## Group Information
 
-## Facilities
+- **Group Name:** Pathogenomic and Cellular Mycobacteria
+- **Research Focus:** Investigation of mycobacterial pathogenomics, cellular mechanisms of infection, and host-pathogen interactions, with a strong emphasis on *Mycobacterium tuberculosis*.
 
-- Biosafety Level 2 (BSL‑2) laboratories
-- Molecular biology facilities for PCR, sequencing, and genetic analysis
-- Cell culture facilities
-- Advanced microscopy equipment
-- Automated microbiology systems for clinical diagnostics
+## Team Members
+
+### Coordinator
+
+- **Name:** Andriansjah, S.Si, M.Biomed, PhD
+- **Title/Credentials:** Doctor, Master in Biomedical Sciences, PhD
+- **Email:** andriansjah@ui.ac.id
+- **Phone:** +62 21 316 0491
+
+### Members
+
+1. **Dra. Ariyani Kiranasari, M.Biomed**
+   - Title/Credentials: Master in Biomedical Sciences
+   - Specialization: Biomedical Microbiology and Tuberculosis Drug Resistance
+   - Email: ariyani.kiranasari@ui.ac.id
+
+2. **dr. Ardiana Kusumaningrum, Sp.MK (K)**
+   - Title/Credentials: Doctor, Clinical Microbiology Specialist (Consultant)
+   - Specialization: Clinical Microbiology, Mycobacteriology, and Infectious Disease Diagnostics
+   - Email: ardiana.kusumaningrum@ui.ac.id
+
+3. **Prof. dr. Amin Soebandrio W. Kusumo, PhD, Sp.MK (K)**
+   - Title/Credentials: Professor, Doctor, PhD, Clinical Microbiology Specialist (Consultant)
+   - Specialization: Clinical Microbiology, Molecular Biology, and Emerging Infectious Diseases
+   - Email: amin.soebandrio@ui.ac.id
+
+## Research Areas
+
+- Mycobacterial genomics and molecular epidemiology
+- Cellular pathogenesis and host immune response to TB
+- Tuberculosis drug resistance (MDR/XDR-TB) mechanisms
+- Vaccine development and efficacy biomarkers (e.g., MGIA)
+- Non-tuberculous mycobacteria (NTM) characterization
+
+## Current Projects
+
+1. **Mycobacterial Growth Inhibition Assay (MGIA) as a Vaccine Efficacy Biomarker**
+   - Duration: 2023 - 2025
+   - Funding: Universitas Indonesia / National Research Grant
+   - Brief description: Validation of MGIA to evaluate the biological activity and protective efficacy of novel tuberculosis vaccine candidates (e.g., pcDNA3.1-rpfD).
+
+2. **Genomic Analysis of Pyrazinamide Resistance in *M. tuberculosis***
+   - Duration: 2023 - 2024
+   - Funding: Domestic Research Grant
+   - Brief description: Whole-genome sequencing analysis of *pncA*, *rpsA*, and *panD* genes to characterize resistance mechanisms in Indonesian *M. tuberculosis* isolates.
+
+3. **TB Lineage Distribution and Drug Resistance Profiling**
+   - Duration: 2023 - Present
+   - Funding: International Collaboration / Faculty Grant
+   - Brief description: Study determining the association between *M. tuberculosis* lineages (using WGS) and phenotypic resistance to new anti-TB drugs like bedaquiline and linezolid.
+
+## Recent Publications
+
+- Rukmana, A., Nurfadillah, M., Gozali, C., & Kiranasari, A. (2024). **Genome sequencing analysis of the *pncA*, *rpsA* and *panD* genes responsible for pyrazinamide resistance of *Mycobacterium tuberculosis* from Indonesian isolates.** *Tropical Medicine and International Health*, 29(11), 964-970.
+
+- Andriansjah, et al. (2024). **Latent Tuberculosis: Interaction of *Mycobacterium tuberculosis* with Macrophages.** *EKSAKTA: Berkala Ilmiah Bidang MIPA*, 25(1), 69-80.
+
+- Nurfadillah, M., ... Andriansjah, et al. (2024). **Mycobacterium tuberculosis Lineage Distribution Using Whole Genome Sequencing and Bedaquiline, Clofazimine, and Linezolid Phenotypic Profile Resistance Among Rifampicin-Resistant Isolates From West Java, Indonesia.** *Pharmaceutical Sciences and Research*, 11(1).
+
+- Scientific TPP Development Group (Contributors: Andriansjah, et al.). (2025). **WHO target product profile for TB detection at peripheral settings: 2024 update.** *PLOS Global Public Health*, 5(6), e0004612.
 
 ## Collaborations
 
-We collaborate with national and international research centers, hospitals, and universities to contribute to multicenter studies and global health initiatives.
+- **Domestic:** Eijkman Institute for Molecular Biology, Universitas Padjadjaran, RSUPN Dr. Cipto Mangunkusumo
+- **International:** Leiden University Medical Center (Netherlands), Osaka University (Japan), London School of Hygiene & Tropical Medicine (UK)
 
-## Education and Training
+## Resources & Facilities
 
-- Supervision of undergraduate and graduate research projects
-- Workshops and training programs in microbiological techniques
-- Participation in national and international conferences
-- Mentorship programs for young researchers
-:::
+- **Mycobacteriology Laboratory (BSL-2/BSL-3):** Facilities equipped for TB culture (LJ and MGIT), drug susceptibility testing, and safe handling of infectious mycobacteria.
+- **Genomic Sequencing Unit:** Access to Next-Generation Sequencing (NGS) platforms for whole-genome sequencing and molecular surveillance.
+
+## Contact Information
+
+- **Office Location:** Department of Microbiology, Faculty of Medicine Universitas Indonesia, Jl. Pegangsaan Timur No. 16, Jakarta Pusat 10320
+- **Office Phone:** +62 21 316 0491
+- **Group Email:** mikrobiologi-fku@ui.ac.id
+- **Website:** [https://research.fk.ui.ac.id/krl/kr/profil_kr/43/749/] https://research.fk.ui.ac.id/krl/kr/profil_kr/43/749

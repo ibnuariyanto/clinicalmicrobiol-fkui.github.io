@@ -22,5 +22,16 @@ about:
 
 ::: {#hero-heading}
 The Microbiology Research Group at the Faculty of Medicine, Universitas Indonesia (FKUI) is dedicated to advancing knowledge in the field of microbiology through innovative research and education. 
-Our team comprises experienced researchers, clinicians, and students who are passionate about understanding microbial life and its impact on human health.
 :::
+
+## Overview
+
+The Department of Clinical Microbiology at the Faculty of Medicine, Universitas Indonesia is organized into five specialized research groups, each focused on critical areas of microbiology and infectious diseases. These multidisciplinary teams bring together experienced researchers, clinicians, and scientists who are dedicated to advancing knowledge through innovative research, clinical practice, and education.
+
+## Research Groups
+
+1. **Bacteriology and Antimicrobial Resistance-Integrated One Health**
+2. **Emerging Microbes and Infectious Diseases**
+3. **Virology and Pathobiology Cancer**
+4. **Diagnosis and Therapy of Fungal Infection**
+5. **Pathogenomic and Cellular Mycobacteria**

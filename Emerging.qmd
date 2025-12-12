@@ -1,6 +1,8 @@
 ---
 title: "Research Group Profile"
+subtitle: "Emerging Microbes and Infectious Diseases Research Group"
 format: html
+date: last-modified
 ---
 
 ## Group Information
@@ -89,11 +91,12 @@ format: html
 ## Resources &amp; Facilities
 
 - **Molecular Virology Laboratory:** Equipped for viral culture, neutralization assays, and molecular detection of emerging viruses (Dengue, HIV, CMV).
-- **Microbiome &amp; Metagenomics Unit:** Facilities for NGS-based microbiome analysis and bioinformatics processing within the IMERI-FKUI cluster.
+- **Microbiome &amp; Metagenomics Unit:** Facilities for NGS-based microbiome analysis and bioinformatics processing at department of Microbiology - Virology & Molecular Laboratory.
 
 ## Contact Information
 
 - **Office Location:** Department of Microbiology, Faculty of Medicine Universitas Indonesia, Jl. Pegangsaan Timur No. 16, Jakarta Pusat 10320
 - **Office Phone:** +62 21 316 0491
 - **Group Email:** [mikrobiologi-fku@ui.ac.id](mailto:mikrobiologi-fku@ui.ac.id)
-- **Website:** [https://imeri.fk.ui.ac.id/infectious-disease-and-immunology/](https://imeri.fk.ui.ac.id/infectious-disease-and-immunology/)
+- **Website KR FKUI:** [https://research.fk.ui.ac.id/krl/kr/profil_kr/40/491/](https://research.fk.ui.ac.id/krl/kr/profil_kr/40/491/)
+- **Other affiliation Website IDIRC:** [https://imeri.fk.ui.ac.id/infectious-disease-and-immunology/](https://imeri.fk.ui.ac.id/infectious-disease-and-immunology/)

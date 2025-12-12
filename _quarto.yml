@@ -10,10 +10,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: AMR.qmd
+      - href: amr.qmd
         text: Bacteriology & AMR
       - href: Emerging.qmd
-        text: Emergind Microbes
+        text: Emerging Microbes
       - href: viro.qmd
         text: Virology & Pathobiology
       - href: fungal.qmd
